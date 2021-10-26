@@ -1,4 +1,4 @@
-# extension--coronavirus
+#  chrome extension--coronavirus
 
 This is a Simple chrome extension which presents the Word "CORONAVIRUS" on the browser in different colours.
 
